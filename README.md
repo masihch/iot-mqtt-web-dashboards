@@ -26,4 +26,3 @@ cd esp32-led-anywhere-control
 ## View of the project
 ![ESP32-Dash](https://github.com/masihch/esp32-led-anywhere-control/blob/main/images/view.webp)
 ![Dashboard](https://github.com/masihch/esp32-led-anywhere-control/blob/main/images/web-dashboard.webp)
-![View](https://github.com/masihch/esp32-led-anywhere-control/blob/main/images/gif.mp4)
