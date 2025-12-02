@@ -22,4 +22,8 @@ cd esp32-led-anywhere-control
 
 ```
 -Then,Open the program in the ESP32 folder and upload it to the esp32
--Open this URL and start controlling! [https://](https://lab.masihch.com/control-esp32-from-anywhere-in-the-world/index.html)
+-Open this URL and start controlling! [Dahboard](https://lab.masihch.com/control-esp32-from-anywhere-in-the-world/index.html)
+## View of the project
+![ESP32-Dash](https://github.com/masihch/esp32-led-anywhere-control/blob/main/images/view.webp)
+![Dashboard](https://github.com/masihch/esp32-led-anywhere-control/blob/main/images/web-dashboard.webp)
+![View](https://github.com/masihch/esp32-led-anywhere-control/blob/main/images/gif.mp4)
