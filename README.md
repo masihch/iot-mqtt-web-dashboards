@@ -1,12 +1,14 @@
 # IOT-MQTT-Web-Dashboards
 In this repository, I plan to provide real time smart web dashboards that work with the MQTT protocol. They will be available both as open source code for development and as quick access instances hosted on my servers, so you can more easily test and deploy your own projects.
 
--  **Global Control** from anywhere.
--  **Web Dashboards** For applied projects. 
--  **Used Free Public MQTT Broker** for connection.
--  **Expandable** for commercial projects.
-  
-## ⚙️ Requirements
+-  **🌐Global Control** from anywhere.
+-  **💻Web Dashboards** For applied projects. 
+-  **⛓️‍💥Used Free Public MQTT Broker** for connection.
+-  **⚙️Expandable** for commercial projects.
+## Connection solution
+For these projects, the mqtt protocol is used for connection. I have previously published information about the free mqtt broker on my personal site.[MQTT broker](https://masihch.com/mqtt-public-broker-free-test-server/)
+## 1.Basic Control
+A simple graphical dashboard that connects to an MQTT broker and sends ON/OFF messages to a topic. The device on the other side reacts by changing the state of a GPIO pin.
 
 - ESP32
 - Host(For personal startup)
