@@ -20,7 +20,7 @@ const char* ssid       = "*******"; //your  AP(router) ssid
 const char* password   = "*******";; //your  AP(router) pass
 
 const char* mqtt_host  = "broker.masihch.com"; // my free public mqtt broker : domain
-const uint16_t mqtt_port = 18883; // my free public mqtt broker : port
+const uint16_t mqtt_port = 8883; // my free public mqtt broker : port
 const char* mqtt_user  = "freeplan"; // my free public mqtt broker : user
 const char* mqtt_pass  = "12345678"; // my free public mqtt broker : pass
 const char* mqtt_client_id = "ESP32Client-SSL"; // Device Client ID for Mqtt Connection(Most be unique)
