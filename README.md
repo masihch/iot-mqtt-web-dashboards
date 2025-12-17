@@ -52,3 +52,22 @@ You can develop this dashboard for your own project or commercialize it. I have 
 ### 👁️View of the project
 ![ESP32-Dash](https://github.com/masihch/iot-mqtt-web-dashboards/blob/main/images/view-monitoring.webp)
 ![Dashboard-control](https://github.com/masihch/iot-mqtt-web-dashboards/blob/main/images/web-monitor-dashboard.webp)
+****
+## 3.Basic Sound Trigger [Dashboard](https://lab.masihch.com/sound-trigger-esp32-from-anywhere-in-the-world/index.html)
+A simple graphical dashboard that connects to an MQTT server, subscribes to a topic, and reacts to triggers detected by the sound sensor
+
+Video of this project : [LinkedIn]()
+
+### 🚀 How to use
+
+- Connect to the broker by clicking on the button (connect to broker)
+- Select a topic to receive messages
+- Wait for arrive sound detect triggers.
+
+### 🛠️ Development
+You can develop this dashboard for your own project or commercialize it. I have included the dashboard side scripts for the web as well as a code sample for esp32 : [Dashboard scripts](Sound-trigger)
+
+### 👁️View of the project
+![ESP32-microphone](https://github.com/masihch/iot-mqtt-web-dashboards/blob/main/images/view-sound-trigger.webp)
+![Dashboard-sound-trigger](https://github.com/masihch/iot-mqtt-web-dashboards/blob/main/images/sound-trigger-dashboard.webp)
+
